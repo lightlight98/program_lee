@@ -1,1 +1,2 @@
 page.md
+detail page
